@@ -1,2 +1,2 @@
-food = ['gimchi', 'namul', 'malatang', 'friedrice', 'yuxiangqiezi']
-print(id(food))
+foods = ['gimchi', 'namul', 'malatang', 'friedrice', 'yuxiangqiezi']
+print(foods)
